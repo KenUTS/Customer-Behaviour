@@ -1,7 +1,7 @@
 Customer behaviour project
 ==============================
 
-![alt text](https://github.com/[KenUTS]/[Customer-Behaviour]/blob/[main]/Experiments-cycle.png?raw=true)
+![alt text](https://github.com/KenUTS/Customer-Behaviour/blob/e479b882db5f7e1351d5266f6accb300e5ad13a5/Experiments-cycle.png)
 
 
 This initiative aims to develop a model to predict whether an existing customer will purchase a new car. 
